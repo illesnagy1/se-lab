@@ -1,5 +1,8 @@
 # SE Spaceship
 
+![](https://github.com/illesnagy1/se-lab/actions/workflows/maven.yml/badge.svg)
+[![MIT License](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/license/mit)
+
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
 The application is simplified and deliberately contains bugs.
